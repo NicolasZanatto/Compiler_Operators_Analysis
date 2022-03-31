@@ -1,4 +1,4 @@
-# Compiler_Operators_Analysis
+# Compiler_Operators_Analyzer
 #### C Program that analyzes and calculate addition, subtraction,multiplication and division expressions with 1 or more digits. 
 
 Grammar: 
